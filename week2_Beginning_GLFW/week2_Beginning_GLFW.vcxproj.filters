@@ -18,5 +18,8 @@
     <ClCompile Include="Beginning_GFLW_APIs.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="week2_homework.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
