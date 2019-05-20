@@ -11,7 +11,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week2_Beginning_GLFW", "wee
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week3_Polygonal_Geometry_Modern_OpenGL", "week3_Polygonal_Geometry_Modern_OpenGL\week3_Polygonal_Geometry_Modern_OpenGL.vcxproj", "{73B5E9FD-2DB1-47DF-9225-487B586A1669}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week4_Geometric_Transformations", "Week4_Geometric_Transformations\Week4_Geometric_Transformations.vcxproj", "{BE52E0D0-E9CC-46C8-B9FA-F72E7FEFE711}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week4_Geometric_Transformations", "Week4_Geometric_Transformations\Week4_Geometric_Transformations.vcxproj", "{BE52E0D0-E9CC-46C8-B9FA-F72E7FEFE711}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week5_Shader_Programming", "week5_Shader_Programming\week5_Shader_Programming.vcxproj", "{DFCA946A-16E4-4F83-9697-0FFD1B33247D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{BE52E0D0-E9CC-46C8-B9FA-F72E7FEFE711}.Release|x64.Build.0 = Release|x64
 		{BE52E0D0-E9CC-46C8-B9FA-F72E7FEFE711}.Release|x86.ActiveCfg = Release|Win32
 		{BE52E0D0-E9CC-46C8-B9FA-F72E7FEFE711}.Release|x86.Build.0 = Release|Win32
+		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Debug|x64.ActiveCfg = Debug|x64
+		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Debug|x64.Build.0 = Debug|x64
+		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Debug|x86.ActiveCfg = Debug|Win32
+		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Debug|x86.Build.0 = Debug|Win32
+		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Release|x64.ActiveCfg = Release|x64
+		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Release|x64.Build.0 = Release|x64
+		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Release|x86.ActiveCfg = Release|Win32
+		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

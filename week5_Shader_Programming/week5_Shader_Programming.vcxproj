@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{BE52E0D0-E9CC-46C8-B9FA-F72E7FEFE711}</ProjectGuid>
+    <ProjectGuid>{DFCA946A-16E4-4F83-9697-0FFD1B33247D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Week4GeometricTransformations</RootNamespace>
+    <RootNamespace>week5ShaderProgramming</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>week4_Geometric_Transformations</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -145,6 +144,10 @@
   <ItemGroup>
     <ClInclude Include="Matrix4.h" />
     <ClInclude Include="Vector4.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fragment_shader.glsl" />
+    <None Include="vertex_shader.glsl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
