@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week4_Geometric_Transformat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week5_Shader_Programming", "week5_Shader_Programming\week5_Shader_Programming.vcxproj", "{DFCA946A-16E4-4F83-9697-0FFD1B33247D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "week6_Reading_and_Rendering_Obj_file", "week6_Reading_and_Rendering_Obj_file\week6_Reading_and_Rendering_Obj_file.vcxproj", "{52615206-A851-442C-840C-318E042EC96B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Release|x64.Build.0 = Release|x64
 		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Release|x86.ActiveCfg = Release|Win32
 		{DFCA946A-16E4-4F83-9697-0FFD1B33247D}.Release|x86.Build.0 = Release|Win32
+		{52615206-A851-442C-840C-318E042EC96B}.Debug|x64.ActiveCfg = Debug|x64
+		{52615206-A851-442C-840C-318E042EC96B}.Debug|x64.Build.0 = Debug|x64
+		{52615206-A851-442C-840C-318E042EC96B}.Debug|x86.ActiveCfg = Debug|Win32
+		{52615206-A851-442C-840C-318E042EC96B}.Debug|x86.Build.0 = Debug|Win32
+		{52615206-A851-442C-840C-318E042EC96B}.Release|x64.ActiveCfg = Release|x64
+		{52615206-A851-442C-840C-318E042EC96B}.Release|x64.Build.0 = Release|x64
+		{52615206-A851-442C-840C-318E042EC96B}.Release|x86.ActiveCfg = Release|Win32
+		{52615206-A851-442C-840C-318E042EC96B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
